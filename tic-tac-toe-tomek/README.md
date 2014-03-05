@@ -37,45 +37,45 @@ Sample
 
 Input  
  
-6
-XXXT
-....
-OO..
-....
+	6
+	XXXT
+	....
+	OO..
+	....
 
-XOXT
-XXOO
-OXOX
-XXOO
-
-XOX.
-OX..
-....
-....
-
-OOXX
-OXXX
-OX.T
-O..O
-
-XXXO
-..O.
-.O..
-T...
-
-OXXX
-XO..
-..O.
-...O
-
+	XOXT
+	XXOO
+	OXOX
+	XXOO
+	
+	XOX.
+	OX..
+	....
+	....
+	
+	OOXX
+	OXXX
+	OX.T
+	O..O
+	
+	XXXO
+	..O.
+	.O..
+	T...
+	
+	OXXX
+	XO..
+	..O.
+	...O
+	
 Output
-
-Case #1: X won
-Case #2: Draw
-Case #3: Game has not completed
-Case #4: O won
-Case #5: O won
-Case #6: O won
+	
+	Case #1: X won
+	Case #2: Draw
+	Case #3: Game has not completed
+	Case #4: O won
+	Case #5: O won
+	Case #6: O won
 
 Note
 

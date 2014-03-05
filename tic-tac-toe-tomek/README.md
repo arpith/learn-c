@@ -13,6 +13,7 @@ Given a 4 x 4 board description containing 'X', 'O', 'T' and '.' characters (whe
 "Draw" (the game is over, and it ended in a draw)
 "Game has not completed" (the game is not over yet)
 If there are empty cells, and the game is not over, you should output "Game has not completed", even if the outcome of the game is inevitable.
+
 Input
 
 The first line of the input gives the number of test cases, T. T test cases follow. Each test case consists of 4 lines with 4 characters each, with each character being 'X', 'O', '.' or 'T' (quotes for clarity only). Each test case is followed by an empty line.
